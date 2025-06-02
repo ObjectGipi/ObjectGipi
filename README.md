@@ -1,4 +1,4 @@
-## Hi there 👋
+## 何が好き🍦
 
 <!--
 **ObjectGipi/ObjectGipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
